@@ -1,0 +1,66 @@
+[
+  {
+    "name": "علی بندری (چنل‌بی و بی‌پلاس)",
+    "handle": "channelb_podcast",
+    "category": "روایت‌گری و داستان",
+    "role": "خالق چنل‌بی و بی‌پلاس",
+    "bio": "روایت گزارش‌های واقعی بلند و خلاصه کتاب‌های غیرداستانی.",
+    "avatar": "avatars/channelb_podcast.jpg"
+  },
+  {
+    "name": "عادل فردوسی‌پور",
+    "handle": "football360_podcast",
+    "category": "تحلیل ورزشی",
+    "role": "راوی و منتقد فوتبال",
+    "bio": "پادکست‌ها و تحلیل‌های صوتی تخصصی فوتبال ایران و جهان.",
+    "avatar": "avatars/football360_podcast.jpg"
+  },
+  {
+    "name": "امیرعلی نبویان",
+    "handle": "amiralinabavian",
+    "category": "داستان‌نویسی و گویندگی",
+    "role": "نویسنده و راوی",
+    "bio": "قصه‌گویی، نویسندگی و اجرای داستان‌های صوتی خلاقانه.",
+    "avatar": "avatars/amiralinabavian.jpg"
+  },
+  {
+    "name": "پادکست راوی (آرش طاهر)",
+    "handle": "ravi_podcast",
+    "category": "روایت‌گری انسانی",
+    "role": "پادکستر مستقل",
+    "bio": "روایت داستان‌های واقعی از زبان انسان‌های واقعی.",
+    "avatar": "avatars/ravi_podcast.jpg"
+  },
+  {
+    "name": "رادیو دیو (Radio Dyo)",
+    "handle": "radiodyo",
+    "category": "موسیقی و سفرنامه",
+    "role": "مجله صوتی فرهنگی",
+    "bio": "تلفیق موسیقی، ادبیات، جغرافیا و فرهنگ‌های گوناگون.",
+    "avatar": "avatars/radiodyo.jpg"
+  },
+  {
+    "name": "پادکست رخ (امیر سودبخش)",
+    "handle": "rokhpodcast",
+    "category": "تاریخ و بیوگرافی",
+    "role": "راوی تاریخ",
+    "bio": "روایت زندگی افراد تاثیرگذار تاریخ ایران و جهان به زبان ساده.",
+    "avatar": "avatars/rokhpodcast.jpg"
+  },
+  {
+    "name": "رادیو چهرازی",
+    "handle": "radiochehrazi",
+    "category": "ادبیات و درام صوتی",
+    "role": "پروژه صوتی چهرازی",
+    "bio": "پادکست داستانی و دراماتیک با کاراکترهای حبیب، جمشید و دلبر.",
+    "avatar": "avatars/radiochehrazi.jpg"
+  },
+  {
+    "name": "پادکست هلی‌تاک (هلی)",
+    "handle": "hellitalk",
+    "category": "توسعه فردی",
+    "role": "مدرس توسعه فردی",
+    "bio": "آموزش مهارت‌های فردی، مدیریت زمان و روانشناسی موفقیت.",
+    "avatar": "avatars/hellitalk.jpg"
+  }
+]
